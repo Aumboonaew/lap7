@@ -28,9 +28,8 @@ int main() {
 		cin >> i;
 		i++;
 	}
-	
-	cout << "\n";
 
+	cout << "\n";
 	cout << "Result = ";
 
 	return 0;
