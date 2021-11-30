@@ -28,6 +28,7 @@ int main() {
 		cin >> i;
 		i++;
 	}
+	
 	cout << "\n";
 	cout << "Result = ";
 
