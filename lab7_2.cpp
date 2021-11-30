@@ -24,10 +24,10 @@ int main() {
 	    }else{
 			result = result + P[i];
 		}
-	cout << i + 1;
-	cin >> i;
+		cout << i + 1;
+		cin >> i;
+		i++;
 	}
-	
 	cout << "\n";
 
 	cout << "Result = ";
